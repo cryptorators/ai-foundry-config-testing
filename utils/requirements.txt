@@ -1,0 +1,19 @@
+# Azure AI Foundry Network-Secured Agent Setup - Python Dependencies
+
+# HTTP client for API calls
+requests>=2.31.0
+
+# Azure authentication and identity management
+azure-identity>=1.15.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Optional: Additional helpful packages for notebook development
+# Uncomment if needed:
+# pandas>=2.1.0  # Data manipulation
+# matplotlib>=3.8.0  # Visualization
